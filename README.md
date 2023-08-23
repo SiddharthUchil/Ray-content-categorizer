@@ -65,7 +65,9 @@ python madewithml/train.py \
     --batch-size 256 \
     --results-fp results/training_results.json
 ```
-![content1](https://github.com/SiddharthUchil/Ray-content-categorizer/assets/36127139/cb76fd62-6b9c-42aa-94bb-b637bce1ec20)
+
+![content1](https://github.com/SiddharthUchil/Ray-content-categorizer/assets/36127139/11f34356-0270-44a8-b854-3ebb5ad889ac)
+
 
 
 ### Tuning
@@ -86,7 +88,9 @@ python madewithml/tune.py \
     --batch-size 256 \
     --results-fp results/tuning_results.json
 ```
-![content2](https://github.com/SiddharthUchil/Ray-content-categorizer/assets/36127139/65986be9-ce19-4fdb-8f1c-dfc84c4b0526)
+
+![content2](https://github.com/SiddharthUchil/Ray-content-categorizer/assets/36127139/20c55a6e-dcce-40bd-ac49-ae9d04063c19)
+
 
 
 ### Experiment tracking
@@ -153,7 +157,9 @@ python madewithml/predict.py predict \
 }]
 ```
 
-![content3](https://github.com/SiddharthUchil/Ray-content-categorizer/assets/36127139/f0d8e03e-2f02-4fd6-819d-43076e06e84e)
+![content3](https://github.com/SiddharthUchil/Ray-content-categorizer/assets/36127139/a35233bf-ad5c-4c75-a955-3dd34de806db)
+
+
 
 ### Serving
 
